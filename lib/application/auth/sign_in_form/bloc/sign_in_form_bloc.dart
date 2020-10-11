@@ -8,7 +8,6 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:notes_firebase_ddd/domain/auth/auth_failure.dart';
 import 'package:notes_firebase_ddd/domain/auth/i_auth_facade.dart';
 import 'package:notes_firebase_ddd/domain/auth/value_objects.dart';
-import 'package:notes_firebase_ddd/domain/core/failures.dart';
 
 part 'sign_in_form_bloc.freezed.dart';
 part 'sign_in_form_event.dart';
