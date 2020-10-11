@@ -2,7 +2,7 @@ include: package:pedantic/analysis_options.yaml
 
 analyzer:
   exclude: 
-   - lib/domain/auth/*.freezed.dart
+   - lib/**/*.freezed.dart
 
 # Customize rules
 #
