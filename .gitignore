@@ -41,3 +41,4 @@ app.*.symbols
 app.*.map.json
 *.freezed.dart
 *.g.dart
+*.gr.dart
